@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a909d443-7144-4d84-84f6-3a5eb36ca34d": {
+      "ProjectGuid": "a909d443-7144-4d84-84f6-3a5eb36ca34d",
+      "DisplayName": "[RabbitMQ .Net].Sample.Project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
