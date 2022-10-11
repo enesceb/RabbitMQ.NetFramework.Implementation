@@ -7,10 +7,10 @@ if click to subscribe buttons, messages will be printed
 
 # Getting Started
 
--Connect to RabbitMQ Portal (Check the connection string on App.config)
--Click Create exchange button
--Click Create Queues button
--Click Bind Queues button
+- Connect to RabbitMQ Portal (Check the connection string on App.config)
+- Click Create exchange button
+- Click Create Queues button
+- Click Bind Queues button
 
 then publish your email and sms notification
 
